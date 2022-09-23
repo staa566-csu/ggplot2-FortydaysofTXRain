@@ -1,0 +1,14 @@
+---
+title: "index"
+author: "Anne Goj"
+date: "2022-09-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![finalimage](Homework1Figure.png)
+

@@ -1,0 +1,727 @@
+Date,Mine Name,City,State,Killed,Product,Accident Type,Mine Type,Mining Sector
+03/17/1839,Black Heath,Richmond,VA,53,Coal,Explosion,UG,Coal
+06/14/1844,Black Heath,Richmond,VA,11,Coal,Explosion,UG,Coal
+01/11/1846,No. 1,Carbondale,PA,14,Coal,Cave-in,UG,Coal
+02/18/1847,Spencer,Pottsville,PA,7,Coal,Explosion,UG,Coal
+11/29/1850,"Cox's Pit, Clover Hill",Winterpock,VA,7,Coal,Explosion,UG,Coal
+05/14/1854,Chesterfield,New Richmond,VA,20,Coal,Explosion,UG,Coal
+03/18/1855,Midlothian,Coalfield,VA,55,Coal,Explosion,UG,Coal
+04/12/1859,Bright Hope,Winterpock,VA,9,Coal,Explosion,UG,Coal
+11/29/1863,"Raccoon, Clover Hill",Winterpock,VA,17,Coal,Explosion,UG,Coal
+04/02/1867,Bright Hope,Winterpock,VA,69,Coal,Explosion,UG,Coal
+04/06/1869,Kentucky-Yellow Jacket,Gold Hill,NV,37,Gold,Fire in timbers,UG,Metal
+09/05/1869,Avondale,Plymouth,PA,110,Coal,Fire,UG,Coal
+03/21/1870,Potts,Locustdale,PA,5,Coal,Explosion,UG,Coal
+08/09/1870,Heins & Glassmire,Middleport,PA,9,Coal,Cage fall (shaft),UG,Coal
+08/28/1870,Preston No. 3,Girardville,PA,7,Coal,Cage fall (shaft),UG,Coal
+05/26/1871,West Pittston,West Pittston,PA,20,Coal,Smoke,UG,Coal
+08/13/1871,Eagle Shaft,Pittston,PA,17,Coal,Explosion,UG,Coal
+10/01/1871,Otto Red Ash,Branch Dale,PA,5,Coal,Explosion,UG,Coal
+07/02/1872,Atwater Slope,Atwater Township,OH,10,Coal,Fire,UG,Coal
+06/09/1873,Henry Clay,Shamokin,PA,10,Coal,Fire,UG,Coal
+09/19/1873,Yellow Jacket,Gold Hill,NV,6,Gold,Fire blacksmith forge,UG,Metal
+02/12/1874,Phoenix,Phoenix,MI,6,Copper,Explosion of dynamite,Surface,Metal
+05/29/1874,Amador,Amador,CA,5,Gold,Cage fell to bottom,UG,Metal
+05/19/1876,Midlothian,Coalfield,VA,8,Coal,Fire,UG,Coal
+07/23/1876,Black Diamond,Nortonville,CA,6,Coal,Fire,UG,Coal
+05/08/1877,Wadesville,Wadesville,PA,7,Coal,Explosion,UG,Coal
+07/10/1877,Brookfield,Brookfield,OH,7,Coal,Suffocation,UG,Coal
+01/14/1878,Potts,Locust Dale,PA,5,Coal,Explosion,UG,Coal
+11/20/1878,Sullivan,Sullivan,IN,8,Coal,Explosion,UG,Coal
+05/05/1879,Audenried,Audenried,PA,6,Coal,Explosion,UG,Coal
+10/02/1879,Tioga,Bodie,CA,6,Gold,Cage accident,UG,Metal
+11/01/1879,Mill Creek,Mill Creek,PA,5,Coal,Explosion,UG,Coal
+03/04/1880,No. 2 Shaft,Nanticoke,PA,6,Coal,Explosion,UG,Coal
+05/02/1880,Lykens Valley,Shamokin,PA,5,Coal,Explosion,UG,Coal
+02/09/1881,Robbins,Robbins,OH,6,Coal,Explosion,UG,Coal
+02/15/1881,Belmont,Belmont,MT,6,Copper,Fire from blacksmith,UG,Metal
+03/03/1881,Almy,Almy,WY,38,Coal,Explosion,UG,Coal
+02/02/1882,Midlothian,Coalfield,VA,32,Coal,Explosion,UG,Coal
+05/23/1882,Kohinoor,Shenandoah,PA,5,Coal,Explosion,UG,Coal
+01/08/1883,Coulterville,Coulterville,IL,10,Coal,Explosion,UG,Coal
+02/15/1883,Diamond,Braidwood,IL,69,Coal,Inrush of water,UG,Coal
+01/23/1884,Crested Butte,Crested Butte,CO,59,Coal,Explosion,UG,Coal
+02/19/1884,West Leisenring,West Leisenring,PA,19,Coal,Explosion,UG,Coal
+03/12/1884,Laurel,Pocahontas,VA,112,Coal,Explosion,UG,Coal
+05/02/1884,Gouverneur,Gouverneur,NY,6,Marble,Explosion of boiler,Surface,Stone
+08/20/1884,Buck Ridge,Shamokin,PA,7,Coal,Fire,UG,Coal
+10/26/1884,Youngstown,Uniontown,PA,14,Coal,Explosion,UG,Coal
+04/05/1885,Cuyler,Raven Run,PA,10,Coal,Roof fall,UG,Coal
+08/10/1885,West End,Mocanaqua,PA,10,Coal,Gas/boiler fire,UG,Coal
+10/20/1885,Plymouth No. 2,Plymouth,PA,6,Coal,Explosion,UG,Coal
+11/12/1885,Bull Domingo,Silver Cliff,CO,10,"Silver, Gold",Dynamite explosion,UG,Metal
+12/17/1885,Slope No. 1,Nanticoke,PA,26,Coal,Inrush of water,UG,Coal
+01/11/1886,Almy No. 4,Almy,WY,13,Coal,Explosion,UG,Coal
+01/20/1886,Newburg,Newburg,WV,39,Coal,Explosion,UG,Coal
+03/07/1886,Uniondale,Dunbar,PA,6,Coal,Explosion,UG,Coal
+08/29/1886,Fair Lawn,Scranton,PA,6,Coal,Explosion,UG,Coal
+09/12/1886,Marvine,Scranton,PA,8,Coal,Suffocated by gas,UG,Coal
+11/25/1886,Conyngham,Wilkes-Barre,PA,12,Coal,Explosion,UG,Coal
+04/03/1887,Old Savanna No. 2,Savanna,OK,18,Coal,Explosion,UG,Coal
+04/26/1887,Tunnel,Ashland,PA,5,Coal,Suffocated by gas,UG,Coal
+09/30/1887,Bast,Ashland,PA,5,Coal,Suffocated by gas,UG,Coal
+03/28/1888,Keith & Perry No. 6,Rich Hill,MO,24,Coal,Explosion,UG,Coal
+11/02/1888,Kettle Creek,Clinton Co.,PA,17,Coal,Explosion,UG,Coal
+11/08/1888,Shaft No. 2,Frontenac,KS,40,Coal,Explosion,UG,Coal
+05/08/1889,Kaska William,Middleport,PA,10,Coal,Mine car fell on men in cage,UG,Coal
+09/08/1889,White Ash,Golden,CO,10,Coal,Inrush of water,UG,Coal
+11/22/1889,Neversweat-St. Lawrence,Butte,MT,6,Copper,Fire,UG,Metal
+01/31/1890,Nottingham,Plymouth,PA,8,Coal,Explosion,UG,Coal
+03/02/1890,Shaft No. 3,Wilkes-Barre,PA,8,Coal,Fire,UG,Coal
+04/01/1890,Susquehanna No. 4,Nanticoke,PA,5,Coal,Explosion,UG,Coal
+05/14/1890,Jersey No. 8,Ashley,PA,26,Coal,Explosion,UG,Coal
+06/15/1890,Hill Farm,Dunbar,PA,31,Coal,Fire,UG,Coal
+01/26/1891,Mammouth,Mount Pleasant,PA,109,Coal,Explosion,UG,Coal
+02/03/1891,Spring Mountain,Jeanesville,PA,9,Coal,Inrush of water,UG,Coal
+05/21/1891,Pratt No. 1 Shaft,Pratt City,AL,11,Coal,Explosion,UG,Coal
+10/22/1891,Richardson,Glen Carbon,PA,7,Coal,Suffocation by gas,UG,Coal
+11/07/1891,Susquehanna No. 1,Nanticoke,PA,12,Coal,Explosion,UG,Coal
+01/06/1892,No. 11,Krebs,OK,100,Coal,Explosion,UG,Coal
+04/19/1892,Lytle,Minersville,PA,10,Coal,Inrush of water,UG,Coal
+05/09/1892,Roslyn,Roslyn,WA,45,Coal,Explosion,UG,Coal
+07/22/1892,York Farm,Pottsville,PA,15,Coal,Explosion,UG,Coal
+01/09/1893,Como,King,CO,24,Coal,Explosion,UG,Coal
+02/10/1893,Sheldon Quarry,West Rutland,VT,5,Marble,Roof fall,Surface,Stone
+02/13/1893,Chicago and Iowa,Albia,IA,8,Coal,Explosion,UG,Coal
+03/12/1893,Choctaw,Alderson,OK,9,Coal,Explosion,UG,Coal
+03/31/1893,Neilson,Shamokin,PA,10,Coal,Fire,UG,Coal
+04/20/1893,Silver Bow No. 2,Butte,MT,9,Copper,Fire,UG,Metal
+05/13/1893,Red Jacket Shaft,Calumet,MI,10,Copper,Hoisting cage overwind,UG,Metal
+06/21/1893,Susquehanna No. 1,Nanticoke,PA,5,Coal,Explosion,UG,Coal
+09/20/1893,Lance No. 11,Plymouth,PA,6,Coal,Explosion,UG,Coal
+09/27/1893,Mansfield,Crystal Falls,MI,28,Iron,Inrush of water,UG,Metal
+02/12/1894,Gaylord,Plymouth,PA,13,Coal,Roof fall,UG,Coal
+07/16/1894,West Slope No. 1,Stockton,PA,8,Coal,Dynamite explosion,UG,Coal
+08/23/1894,Franklin,Franklin,WA,37,Coal,Fire,UG,Coal
+10/07/1894,Luke Fidler,Shamokin,PA,5,Coal,Fire,UG,Coal
+10/10/1894,Henry Clay,Shamokin,PA,6,Coal,Boiler explosion,UG,Coal
+11/19/1894,Blanche,Standard,WA,8,Coal,Explosion,UG,Coal
+01/21/1895,Tate,Sturgis,KY,5,Coal,Powder explosion,UG,Coal
+02/17/1895,West Bear Ridge,Mahanoy Plane,PA,5,Coal,Explosion,UG,Coal
+02/26/1895,White Ash,Cerrillos,NM,24,Coal,Explosion,UG,Coal
+03/09/1895,Old Abe,White Oaks,NM,8,Gold,Fire,UG,Metal
+03/19/1895,Red Canyon,Red Canyon,WY,62,Coal,Explosion,UG,Coal
+04/07/1895,Blue Canyon,Lake Whatcom,WA,23,Coal,Explosion,UG,Coal
+08/28/1895,Sleepy Hollow,Sleepy Hollow,CO,12,Gold,Mine flooded,UG,Metal
+09/06/1895,Osceolo,Calumet,MI,30,Copper,Fire on 27th level,UG,Metal
+09/25/1895,Belgian,Leadville,CO,6,Gold,Dynamite explosion,UG,Metal
+10/06/1895,Dorrance,Wilkes-Barre,PA,7,Coal,Explosion,UG,Coal
+12/18/1895,Cumnock,Cumnock,NC,39,Coal,Explosion,UG,Coal
+12/19/1895,Nelson,Dayton,TN,28,Coal,Explosion,UG,Coal
+01/03/1896,Anna Lee,El Paso County,CO,8,Gold,Cave-in of shaft,UG,Metal
+02/17/1896,Vulcan,New Castle,CO,49,Coal,Explosion,UG,Coal
+03/22/1896,Berwind,Dubois,PA,13,Coal,Explosion,UG,Coal
+04/07/1896,Hope,Basin,MT,7,Gold,Fire,UG,Metal
+04/10/1896,St. Lawrence,Butte,MT,6,Copper,Powder explosion,UG,Metal
+06/27/1896,Twin Shaft,Pittston,PA,58,Coal,Roof fall,UG,Coal
+10/28/1896,Shaft No. 3,South Wilkes-Barre,PA,6,Coal,Explosion,UG,Coal
+12/25/1896,Oswald,Princeton,IN,7,Coal,Explosion,UG,Coal
+01/03/1897,No. 1,Alderson,OK,5,Coal,Explosion,UG,Coal
+01/12/1897,Wadesville,Wadesville,PA,5,Coal,Crosshead fell/shaft,UG,Coal
+03/03/1897,Kansas & Texas No. 44,Huntington,AR,14,Coal,Explosion,UG,Coal
+06/23/1897,Gould & Curry,Virginia City,NV,11,"Gold, Silver",Fire in shaft,UG,Metal
+09/02/1897,Sunshine,Sunshine,CO,12,Coal,Explosion,UG,Coal
+09/19/1897,Belle Ellen,Belle Ellen,AL,5,Coal,Fire,UG,Coal
+09/27/1897,Jermyn No. 1,Rendham,PA,5,Coal,Fire,UG,Coal
+10/29/1897,Von Storch,Scranton,PA,6,Coal,Fire,UG,Coal
+03/18/1898,No. 2 Slope,Unknown,AL,6,Coal,Explosion,UG,Coal
+05/25/1898,Kaska Williams,Middleport,PA,6,Coal,Inrush of water,UG,Coal
+09/22/1898,Umpire,Brownsville,PA,8,Coal,Explosion,UG,Coal
+09/30/1898,Midvale,Wilkes-Barre,PA,5,Coal,Fire,UG,Coal
+11/04/1898,Exeter,West Pittston,PA,9,Coal,Cage accident,UG,Coal
+02/20/1899,Blocton No. 2,Blocton,AL,5,Coal,Explosion,UG,Coal
+04/20/1899,Cook & White,Madrid,NM,5,Coal,Explosion,UG,Coal
+05/22/1899,Cumnock,Cumnock,NC,23,Coal,Explosion,UG,Coal
+07/23/1899,Grindstone,Grindstone,PA,5,Coal,Explosion,UG,Coal
+12/08/1899,Carbon Hill No. 7,Carbonado,WA,31,Coal,Explosion,UG,Coal
+12/22/1899,Sumner,Sumner,PA,19,Coal,Explosion,UG,Coal
+3/5/1900,Red Ash,Red Ash,WV,46,Coal,Explosion,UG,Coal
+4/30/1900,Winter Quarters 1 & 4,Scofield,UT,200,Coal,Explosion,UG,Coal
+5/22/1900,Cumnock,Cumnock,NC,23,Coal,Explosion,UG,Coal
+8/20/1900,Issaqua No. 4,Issaquah,WA,5,Coal,Fire,UG,Coal
+11/8/1900,Buck Mountain,Mahanoy City,PA,7,Coal,Explosion,UG,Coal
+2/24/1901,Diamondville No. 1,Diamondville,WY,26,Coal,Fire,UG,Coal
+4/28/1901,McAlester No. 5,Alderson,OK,6,Coal,Explosion,UG,Coal
+5/14/1901,Chatham,Farmington,WV,10,Coal,Explosion,UG,Coal
+5/26/1901,Richland,Dayton,TN,20,Coal,Explosion,UG,Coal
+6/3/1901,Chapin,Iron Mtn.,MI,8,Iron,Dynamite explosion,UG,Metal
+6/9/1901,Port Royal No. 2,Port Royal,PA,19,Coal,Explosion,UG,Coal
+9/15/1901,Spring Gulch,Spring Gulch,CO,6,Coal,Explosion,UG,Coal
+10/24/1901,Buttonwood,Plymouth,PA,6,Coal,Explosion,UG,Coal
+10/25/1901,Diamondville,Diamondville,WY,22,Coal,Explosion,UG,Coal
+11/13/1901,Pocahontas,Pocahontas,VA,17,Coal,Fires (11th & 14th),UG,Coal
+11/19/1901,Smuggler-Union,Pandora,CO,31,"Gold, Silver",Bunk house fire,UG,Metal
+12/27/1901,No. 1,Hartshorne,OK,6,Coal,Haulage,UG,Coal
+1/12/1902,Milby & Dow,Dow,OK,10,Coal,Fire,UG,Coal
+1/23/1902,Lost Creek No. 2,Oskaloosa,IA,20,Coal,Explosion,UG,Coal
+3/5/1902,Catsburg,Monongahela,PA,5,Coal,Explosion,UG,Coal
+3/30/1902,Nelson,Dayton,TN,16,Coal,Explosion,UG,Coal
+5/18/1902,Fraterville,Coal Creek,TN,184,Coal,Explosion,UG,Coal
+7/9/1902,Rolling Mill,Johnstown,PA,112,Coal,Explosion,UG,Coal
+7/14/1902,Park-Utah,Park City,UT,34,"Lead, Zinc, Copper, Silver",Powder fumes,UG,Metal
+8/6/1902,Bowen,Bowen,CO,13,Coal,Explosion,UG,Coal
+9/14/1902,Algoma No. 7,Algoma,WV,17,Coal,Explosion,UG,Coal
+9/21/1902,Stafford,Stafford,WV,6,Coal,Explosion,UG,Coal
+9/30/1902,Lawson,Black Diamond,WA,11,Coal,Explosion,UG,Coal
+11/28/1902,Luke Fidler,Shamokin,PA,7,Coal,Explosion,UG,Coal
+3/14/1903,Cardiff,Cardiff,IL,5,Coal,Explosion,UG,Coal
+3/22/1903,"Athens, No. 2",Athens,IL,6,Coal,Explosion,UG,Coal
+3/30/1903,Sandoval,Sandoval,IL,8,Coal,Explosion,UG,Coal
+4/11/1903,Central Slope 77,Carbon,OK,6,Coal,Explosion,UG,Coal
+6/18/1903,"Blossburg, No. 3",Blossburg,NM,5,Coal,Explosion,UG,Coal
+6/29/1903,"Hanna, No. 1",Hanna,WY,169,Coal,Explosion,UG,Coal
+11/5/1903,Kearsarge,Virginia City,MT,9,Gold,Fire,UG,Metal
+11/19/1903,Bonanza No. 20,Bonanza,AR,11,Coal,Explosion,UG,Coal
+11/20/1903,Ferguson,Connellsville,PA,17,Coal,Explosion,UG,Coal
+1/24/1904,Harwick,Cheswick,PA,179,Coal,Explosion,UG,Coal
+1/25/1904,Stratton's Independence,Victor,CO,14,Gold,Cage accident,UG,Metal
+4/19/1904,Stearns No. 5,Stearns,KY,5,Coal,Explosion,UG,Coal
+5/4/1904,Locust Gap,Locust Gap,PA,5,Coal,Fire,UG,Coal
+5/10/1904,Big Muddy,Herrin,IL,10,Coal,Explosion,UG,Coal
+10/27/1904,Tercio,Terico,CO,19,Coal,Explosion,UG,Coal
+11/1/1904,Auchincloss,Nanticoke,PA,10,Coal,Haulage,UG,Coal
+12/3/1904,Horton,Horton,WV,7,Coal,Fire,UG,Coal
+12/6/1904,No. 5,Burnett,WA,17,Coal,Explosion,UG,Coal
+1/15/1905,No. 1,Decatur,IL,6,Coal,Fire,UG,Coal
+2/17/1905,Lytle,Minersville,PA,5,Coal,Haulage,UG,Coal
+2/19/1905,Virginia City,Virginia City,AL,112,Coal,Explosion,UG,Coal
+2/25/1905,Grapevine,Wilcoe,WV,6,Coal,Explosion,UG,Coal
+3/8/1905,Clear Spring,West Pittston,PA,7,Coal,Haulage,UG,Coal
+3/17/1905,Rush Run & Red Ash,Red Ash,WV,24,Coal,Explosions,UG,Coal
+3/21/1905,Oswald,Princeton,IN,9,Coal,Explosion,UG,Coal
+4/2/1905,Zeigler,Zeigler,IL,49,Coal,Explosion,UG,Coal
+4/19/1905,Cabin Creek,Kayford,WV,6,Coal,Explosion,UG,Coal
+4/25/1905,Conyngham,Wilkes-Barre,PA,10,Coal,Haulage,UG,Coal
+4/26/1905,Eleanora,Dubois,PA,13,Coal,Explosion,UG,Coal
+4/29/1905,No. 19,Wilburton,OK,13,Coal,Explosion,UG,Coal
+5/11/1905,Cora,Butte,MT,7,Copper,Explosion of explosives,UG,Metal
+7/4/1905,Tidewater,Vivian,WV,5,Coal,Explosion,UG,Coal
+7/5/1905,Fuller,Searight,PA,6,Coal,Explosion,UG,Coal
+10/12/1905,Clyde,Fredericktown,PA,6,Coal,Fire,UG,Coal
+10/28/1905,Hazel Kirk No. 2,Monongahela,PA,5,Coal,Explosion,UG,Coal
+11/3/1905,Tidewater,Vivian,WV,7,Coal,Explosion,UG,Coal
+11/14/1905,Braznell,Bentleyville,PA,7,Coal,Explosion,UG,Coal
+12/1/1905,Diamondville No. 1,Diamondville,WY,18,Coal,Explosion,UG,Coal
+1/3/1906,Coaldale,Coaldale,WV,22,Coal,Explosion,UG,Coal
+1/17/1906,Detroit,Detroit,WV,18,Coal,Explosion,UG,Coal
+1/23/1906,Poteau No. 6,Witteville,OK,14,Coal,Explosion,UG,Coal
+2/7/1906,Parral,Parral,WV,23,Coal,Explosion,UG,Coal
+2/18/1906,Maitland,Walsenburg,CO,14,Coal,Explosion,UG,Coal
+2/26/1906,Little Cahaba,Piper,AL,12,Coal,Explosion,UG,Coal
+3/21/1906,Century No. 1,Century,WV,23,Coal,Explosion,UG,Coal
+4/21/1906,Cuatro,Tercio,CO,18,Coal,Explosion,UG,Coal
+6/6/1906,Red Lodge,Red Lodge,MT,8,Coal,Fire,UG,Coal
+8/5/1906,Susquehanna No. 7,Nanticoke,PA,6,Coal,Explosion,UG,Coal
+10/2/1906,Pocahontas,Pocahontas,VA,36,Coal,Explosion,UG,Coal
+10/4/1906,Dutchman,Blossburg,NM,10,Coal,Explosion,UG,Coal
+10/23/1906,Rolling Mill,Johnstown,PA,7,Coal,Explosion,UG,Coal
+11/2/1906,San Toy No. 1,San Toy,OH,5,Coal,Haulage,UG,Coal
+12/21/1906,Breese-Trenton,Breese,IL,6,Coal,Haulage,UG,Coal
+1/13/1907,Deering No. 7,Clinton,IN,7,Coal,Explosion,UG,Coal
+1/22/1907,Primero,Primero,CO,24,Coal,Explosion,UG,Coal
+1/25/1907,Lorentz,Penco,WV,12,Coal,Explosion,UG,Coal
+1/28/1907,Stuart,Stuart,WV,84,Coal,Explosion,UG,Coal
+2/3/1907,Thomas No. 25,Thomas,WV,25,Coal,Explosion,UG,Coal
+3/1/1907,Holden,Taylor,PA,7,Coal,Explosion,UG,Coal
+3/15/1907,Bond & Bruce,Tacoma,VA,11,Coal,Explosion,UG,Coal
+4/25/1907,Morgan,Black Diamond,WA,7,Coal,Explosion,UG,Coal
+4/30/1907,Whipple,Scarboro,WV,16,Coal,Explosion,UG,Coal
+5/18/1907,Engleville,Engleville,CO,5,Coal,Fire,UG,Coal
+6/17/1907,Johnson No. 1,Priceburg,PA,7,Coal,Explosion,UG,Coal
+8/16/1907,Sonman,Sonman,PA,5,Coal,Haulage,UG,Coal
+11/29/1907,Fremont Consolidated,Drytown,CA,11,Gold,Fire at foot of shaft,UG,Metal
+11/30/1907,Naomi,Fayette City,PA,34,Coal,Explosion,UG,Coal
+12/5/1907,Monongah No. 6 and 8,Monongah,WV,362,Coal,Explosions,UG,Coal
+12/6/1907,Rolling Mill Mine,Negaunee,MI,10,Iron,Fall of skip,UG,Metal
+12/15/1907,Yolande,Yolande,AL,57,Coal,Explosion,UG,Coal
+12/18/1907,Darr,Van Meter,PA,239,Coal,Explosion,UG,Coal
+12/30/1907,Bernal,Carthage,NM,11,Coal,Explosion,UG,Coal
+1/29/1908,Backman,Hawks Nest,WV,9,Coal,Explosion,UG,Coal
+2/9/1908,Moody,South Carrolton,KY,9,Coal,Explosion,UG,Coal
+3/27/1908,Hanna No. 1,Hanna,WY,59,Coal,Explosion,UG,Coal
+5/11/1908,Mount Lookout,Wyoming,PA,12,Coal,Explosion,UG,Coal
+5/12/1908,Prospect,Wilkes-Barre,PA,5,Coal,Roof fall/bump,UG,Coal
+7/14/1908,Williamstown,Williamstown,PA,6,Coal,Explosion,UG,Coal
+8/25/1908,Hailey-Okla. No. 1,Haileyville,OK,29,Coal,Fire,UG,Coal
+8/27/1908,Warrior Run,Wilkes-Barre,PA,6,Coal,Haulage,UG,Coal
+11/15/1908,Pratt No. 3,Ensley,AL,8,Coal,Fire,UG,Coal
+11/19/1908,Red Lodge,Red Lodge,MT,9,Coal,Fire,UG,Coal
+11/27/1908,Rachel and Agnes,Marianna,PA,154,Coal,Explosion,UG,Coal
+12/28/1908,Lick Branch,Switchback,WV,50,Coal,Explosion,UG,Coal
+1/9/1909,Zeigler,Zeigler,IL,26,Coal,Explosion,UG,Coal
+1/9/1909,Carbon Hill,Gayton,VA,6,Coal,Explosion,UG,Coal
+1/11/1909,Lick Branch,Switchback,WV,67,Coal,Explosion,UG,Coal
+1/18/1909,Stone Canyon,Chancellor,CA,6,Coal,Explosion,UG,Coal
+1/24/1909,Washington No. 5,Franklin,MD,5,Coal,Haulage,UG,Coal
+1/24/1909,Orenda No. 2,Boswell,PA,5,Coal,Explosion,UG,Coal
+2/1/1909,Short Creek,Short Creek,AL,18,Coal,Explosion,UG,Coal
+2/25/1909,Keystone,Joplin,MO,5,Lead,Fall of rock,UG,Metal
+3/1/1909,No. 14,Pittston,PA,8,Coal,Explosion,UG,Coal
+3/19/1909,Sunnyside,Evansville,IN,6,Coal,Explosion,UG,Coal
+3/30/1909,Echo,Buery,WV,6,Coal,Explosion,UG,Coal
+4/8/1909,Eureka No. 37,Wimber,PA,7,Coal,Explosion,UG,Coal
+4/12/1909,Slate Quarry,Granville,NY,5,Slate,Cave-in,Surface,Stone
+6/22/1909,Lackawanna No. 4,Wehrum,PA,21,Coal,Explosion,UG,Coal
+7/5/1909,Toller,Tollerville,CO,9,Coal,Explosion,UG,Coal
+10/2/1909,Northwestern,Roslyn,WA,10,Coal,Explosion,UG,Coal
+10/20/1909,Rock Island No. 8,Hartshorne,OK,10,Coal,Explosion,UG,Coal
+10/30/1909,Franklin No. 2,Johnstown,PA,13,Coal,Explosion,UG,Coal
+11/8/1909,Auchincloss,Nanticoke,PA,9,Coal,Fire,UG,Coal
+11/12/1909,Cherry,Cherry,IL,259,Coal,Fire,UG,Coal
+12/10/1909,Baker No. 5,Clay,KY,7,Coal,Explosion,UG,Coal
+12/22/1909,Mine A,Herrin,IL,8,Coal,Explosion,UG,Coal
+1/10/1910,Nottingham,Plymouth,PA,7,Coal,Explosion,UG,Coal
+1/30/1910,Primero,Primero,CO,75,Coal,Explosion,UG,Coal
+1/31/1910,Browder,Browder,KY,34,Coal,Explosion,UG,Coal
+2/4/1910,Ernest No. 2,Ernest,PA,12,Coal,Explosion,UG,Coal
+2/7/1910,Barthell No. 1,Stearns,KY,6,Coal,Explosion,UG,Coal
+3/1/1910,Alaska-Mexican,Treadwell,AK,37,Gold,Explosion of powder,Surface,Metal
+3/11/1910,South Wilkes-Barre No. 5,South Wilkes-Barre,PA,7,Coal,Explosion,UG,Coal
+3/30/1910,Great Western No. 2,Wilburton,OK,6,Coal,Explosion,UG,Coal
+4/12/1910,Limestone Quarry,Nazareth,PA,11,Limestone,Quarry explosion,Surface,Stone
+4/19/1910,Mulga,Mulga,AL,40,Coal,Explosion,UG,Coal
+4/20/1910,Amsterdam,Amsterdam,OH,15,Coal,Explosion,UG,Coal
+5/4/1910,Palos No. 3,Palos,AL,84,Coal,Explosion,UG,Coal
+5/31/1910,Union Quarry,Devils Slide,UT,25,Limestone,Quarry explosion,Surface,Stone
+6/1/1910,Lehigh Quarry,West Coplay,PA,8,Limestone,Quarry explosion,Surface,Stone
+6/6/1910,Richard,Dover,NJ,5,Iron,Falling from man-car,UG,Metal
+10/7/1910,Starkville,Starkville,CO,56,Coal,Explosion,UG,Coal
+11/2/1910,Yolande No. 1,Yolande,AL,5,Coal,Explosion,UG,Coal
+11/5/1910,Lawson,Black Diamond,WA,16,Coal,Explosion,UG,Coal
+11/7/1910,Victor American No. 3,Delagua,CO,79,Coal,Explosion,UG,Coal
+11/10/1910,Shoal Creek No. 1,Panama,IL,6,Coal,Explosion,UG,Coal
+11/24/1910,Providence No. 3,Providence,KY,10,Coal,Explosion,UG,Coal
+11/27/1910,Jumbo,Durant,OK,13,Asphalt,Explosion of gas,UG,NonMetal
+12/13/1910,Leyden,Leyden,CO,10,Coal,Fire,UG,Coal
+12/13/1910,Greeno,Tacoma,VA,8,Coal,Explosion,UG,Coal
+12/30/1910,Lick Fork,Thacker,WV,10,Coal,Haulage,UG,Coal
+1/17/1911,Keating,Radersburg,MT,6,Gold,Powder explosion,UG,Metal
+1/19/1911,Carbon Hill,Carbon Hill,VA,7,Coal,Explosion,UG,Coal
+2/8/1911,Cokedale,Trinidad,CO,17,Coal,Explosion,UG,Coal
+2/22/1911,Belmont,Tonopah,NV,17,"Gold, Silver","Fire, asphyxiation",UG,Metal
+3/10/1911,Norman Mine (open pit),Virginia,MN,14,Iron,Slide of bank,Surface,Metal
+3/17/1911,No. 16,Mineral,KS,5,Coal,Explosion,UG,Coal
+3/21/1911,Hazel,Canonsburg,PA,9,Coal,Haulage,UG,Coal
+4/6/1911,Price-Pancoast,Troop,PA,73,Coal,Fire,UG,Coal
+4/7/1911,Banner,Littleton,AL,128,Coal,Explosion,UG,Coal
+4/23/1911,Ott No. 20,Elk Garden,WV,23,Coal,Explosion,UG,Coal
+5/4/1911,Hartford-Cambria No. 2,Negaunee,MI,7,Iron,Fire,UG,Metal
+5/9/1911,Boston,Larksville,PA,5,Coal,Fire,UG,Coal
+5/26/1911,Cameron,Shamokin,PA,5,Coal,Explosion,UG,Coal
+7/14/1911,Sykesville,Syskesville,PA,21,Coal,Explosion,UG,Coal
+7/31/1911,Standard,Welch,WV,6,Coal,Explosion,UG,Coal
+8/22/1911,Giroux,Ely,NV,7,Copper,Fire,UG,Metal
+9/2/1911,Butte & Superior,Butte,MT,6,Zinc,Cage accident,UG,NonMetal
+10/2/1911,Drifton,Freeland,PA,5,Coal,Suffocation,UG,Coal
+10/18/1911,Wharton,Hibernia,NJ,12,Iron,Shaft flooded,UG,Metal
+10/22/1911,O'Gara No. 9,Harrisburg,IL,8,Coal,Explosion,UG,Coal
+11/8/1911,Adrian,Punxsutawney,PA,8,Coal,Explosion,UG,Coal
+11/17/1911,Bottom Creek,Vivian,WV,18,Coal,Explosion,UG,Coal
+12/8/1911,Cross Mountain,Briceville,TN,84,Coal,Explosion,UG,Coal
+1/8/1912,Parrish,Plymouth,PA,6,Coal,Explosion,UG,Coal
+1/15/1912,Carbon Hill,Carbon Hill,VA,5,Coal,Explosion,UG,Coal
+1/18/1912,Central,Central City,KY,5,Coal,Explosion,UG,Coal
+1/19/1912,Kemmerer No. 4,Kemmerer,WY,6,Coal,Explosion,UG,Coal
+2/21/1912,Western No. 5,Lehigh,OK,9,Coal,Fire,UG,Coal
+3/19/1912,San Bois No. 2,McCurtain,OK,73,Coal,Explosion,UG,Coal
+3/25/1912,Jed,Jed,WV,81,Coal,Explosion,UG,Coal
+4/20/1912,Coil,Madisonville,KY,5,Coal,Explosion,UG,Coal
+5/12/1912,Norrie,Ironwood,MI,7,Iron,Cave-in,UG,Metal
+6/17/1912,Hastings,Hastings,CO,12,Coal,Explosion,UG,Coal
+7/6/1912,Eureka Pit,Ely,NV,10,Copper,Dynamite explosion,UG,Metal
+7/10/1912,Panama,Moundsville,WV,8,Coal,Explosion,UG,Coal
+7/15/1912,Carbon Hill,Gayton,VA,8,Coal,Explosion,UG,Coal
+7/23/1912,Superba and Lemont,Evans Station,PA,18,Coal,Inundation,UG,Coal
+8/12/1912,Abernant,Abernant,AL,18,Coal,Explosion,UG,Coal
+12/8/1912,Great Northern Development Co.,Cordova,AK,9,Gold,Snowslide,Surface,Metal
+2/18/1913,Seagraves,Eldorado,IL,5,Coal,Explosion,UG,Coal
+4/16/1913,Miami,Miami,AZ,5,Copper,Air blast due to cave-in,UG,Metal
+4/22/1913,Leonard,Butte,MT,5,Copper,Hoisting accident,UG,Metal
+4/22/1913,Cincinnati,Finleyville,PA,98,Coal,Explosion,UG,Coal
+5/5/1913,Taylor Mine,Beaver Dam,KY,5,Coal,Suffocation,UG,Coal
+5/16/1913,Noble,Belle Valley,OH,15,Coal,Explosion,UG,Coal
+8/1/1913,East Brookside,Tower City,PA,20,Coal,Explosion,UG,Coal
+8/12/1913,Coronado Incline,Clifton,AZ,9,Copper,Breaking drawbar,UG,Metal
+10/21/1913,Stag Canon No. 2,Dawson,NM,263,Coal,Explosion,UG,Coal
+11/17/1913,Acton No. 2,Acton,AL,24,Coal,Explosion,UG,Coal
+12/15/1913,Vulcan,New Castle,CO,37,Coal,Explosion,UG,Coal
+1/9/1914,Rock Castle,Rock Castle,AL,12,Coal,Explosion,UG,Coal
+1/13/1914,No. 7,Mulberry,KS,6,Coal,Haulage,UG,Coal
+1/20/1914,Boston,Bingham,UT,5,Copper,Fire,UG,Metal
+4/27/1914,Eccles No. 5 & No. 6,Eccles,WV,181,Coal,Explosion,UG,Coal
+4/29/1914,No. 2,Cumberland,WY,5,Coal,Haulage,UG,Coal
+5/28/1914,Maryd,Maryd,PA,6,Coal,Haulage,UG,Coal
+6/29/1914,No. 1,Cinderella,WV,5,Coal,Fire,UG,Coal
+7/13/1914,Balkan,Palatka,MI,7,Iron,Rush of water in raise,Surface,Metal
+8/3/1914,Copper Flat (Steam Shovel Pit),McGill,NV,5,Copper,Premature blast,Surface,Metal
+9/3/1914,No. 1,Adamson,OK,13,Coal,Roof fall/bump,UG,Coal
+9/15/1914,Lehigh No. 4,Lansford,PA,7,Coal,Explosion,UG,Coal
+9/16/1914,Centennial-Eureka,Eureka,UT,11,Gold,Cave-in,UG,Metal
+10/4/1914,Mulga,Mulga,AL,16,Coal,Explosion,UG,Coal
+10/26/1914,North or No. 1,Royalton,IL,52,Coal,Explosion,UG,Coal
+11/8/1914,Sibley No. 9 Shaft,Ely,MN,5,Iron,Shaft cave-in,UG,Metal
+12/8/1914,Tripp,Scranton,PA,13,Coal,Haulage,UG,Coal
+2/5/1915,Carlisle,Carlisle,WV,21,Coal,Explosion,UG,Coal
+2/16/1915,Prospect,Wilkes-Barre,PA,13,Coal,Explosion,UG,Coal
+2/17/1915,New Home No. 2,Rich Hill,MO,5,Coal,Explosion,UG,Coal
+3/1/1915,Layland No. 3,Layland,WV,115,Coal,Explosion,UG,Coal
+4/4/1915,Shoal Creek,Panama,IL,11,Coal,Explosion,UG,Coal
+5/23/1915,Smokeless Valley No. 1,Johnstown,PA,9,Coal,Explosion,UG,Coal
+7/26/1915,United Coal No. 1,Christopher,IL,9,Coal,Explosion,UG,Coal
+7/29/1915,Patterson No. 2,Elizabeth,PA,9,Coal,Haulage,UG,Coal
+8/30/1915,Orenda,Boswell,PA,19,Coal,Explosion,UG,Coal
+10/18/1915,Granite Mountain Shaft,Butte,MT,16,Copper,Dynamite explosion,UG,Metal
+11/15/1915,Northwestern,Ravensdale,WA,31,Coal,Explosion,UG,Coal
+11/29/1915,Boomer No. 2,Boomer,WV,23,Coal,Explosion,UG,Coal
+2/7/1916,Lance,Plymouth,PA,7,Coal,Explosion,UG,Coal
+2/10/1916,Ernest No. 2,Ernest,PA,27,Coal,Explosion,UG,Coal
+2/13/1916,Pennsylvania,Butte,MT,21,Copper,Fire,UG,Metal
+2/28/1916,Davis No. 42,Kempton,MD,16,Coal,Explosion,UG,Coal
+3/8/1916,Hollenback,Wilkes-Barre,PA,6,Coal,Explosion,UG,Coal
+3/27/1916,King,Kimball,WV,10,Coal,Explosion,UG,Coal
+3/29/1916,Robindale,Seward,PA,8,Coal,Explosion,UG,Coal
+8/7/1916,Woodward,Wilkes-Barre,PA,6,Coal,Explosion,UG,Coal
+10/18/1916,Jamison No. 7,Barrackville,WV,11,Coal,Explosion,UG,Coal
+10/21/1916,Roden,Marvel,AL,18,Coal,Explosion,UG,Coal
+11/3/1916,Bessie,Palos,AL,30,Coal,Explosion,UG,Coal
+11/17/1916,Ocean Mine,Greensbury,PA,8,Coal,Roof fall,UG,Coal
+12/12/1916,Fidelity No. 9,Stone City,KS,20,Coal,Explosion,UG,Coal
+2/24/1917,North Star,Hailey,ID,16,"Gold, Lead, Silver, Zinc",Snowslide,Surface,Metal
+3/12/1917,Henderson No. 1,Hendersonville,PA,14,Coal,Explosion,UG,Coal
+4/17/1917,Lynden,Mason,WV,5,Coal,Explosives,UG,Coal
+4/26/1917,Hastings,Hastings,CO,121,Coal,Explosion,UG,Coal
+4/27/1917,Mountain King,Mariposa Co.,CA,7,Gold,Powder Fumes/Suffocation,UG,Metal
+6/1/1917,Rend No. 2,Herrin,IL,9,Coal,Explosion,UG,Coal
+6/7/1917,Granite Mountain,Butte,MT,163,Copper,Fire,UG,Metal
+6/12/1917,Banner,Banner,AL,6,Coal,Explosion,UG,Coal
+7/16/1917,Three Forks Quarry,Trident,MT,8,Gypsum,Powder explosion,Surface,Stone
+8/3/1917,West Kentucky No. 7,Clay,KY,62,Coal,Explosion,UG,Coal
+9/16/1917,Orient,Orient,IL,5,Coal,Haulage,UG,Coal
+11/28/1917,Old Ben No. 11,Christopher,IL,18,Coal,Explosion,UG,Coal
+12/14/1917,Yukon No. 1,Bluefield,WV,18,Coal,Explosion,UG,Coal
+12/16/1917,Wilkeson,Wilkeson,WA,6,Coal,Inundation,UG,Coal
+12/19/1917,No. 3,Catoosa,TN,11,Coal,Explosion,UG,Coal
+2/20/1918,Amasa-Porter,Crystal Falls,MI,17,Iron,Cave-in by water,UG,Metal
+5/19/1918,Villa,Villa,WV,13,Coal,Fire,UG,Coal
+6/26/1918,Silver (open pit),Virginia,MN,18,Iron,Powder explosion,Surface,Metal
+8/6/1918,Hamar,Harmarville,PA,8,Coal,Explosion,UG,Coal
+8/27/1918,Burnett,Burnett,WA,12,Coal,Explosion,UG,Coal
+9/27/1918,North,Royalton,IL,21,Coal,Explosion,UG,Coal
+3/31/1919,Empire,Aguilar,CO,13,Coal,Explosion,UG,Coal
+4/28/1919,Majestic,Majestic,AL,22,Coal,Explosion,UG,Coal
+6/4/1919,Baltimore Tunnel #2,Wilkes-Barre,PA,92,Coal,Explosives,UG,Coal
+6/29/1919,Alderson No. 5,Alderson,OK,15,Coal,Explosion,UG,Coal
+7/7/1919,Lansford Colliery,Lansford,PA,8,Coal,Explosion,UG,Coal
+7/17/1919,Carswell,Kimball,WV,6,Coal,Explosion,UG,Coal
+7/24/1919,Hecla,Burke,ID,5,Lead,Cage accident,UG,Metal
+8/5/1919,Weirwood,Weirwood,WV,7,Coal,Explosion,UG,Coal
+8/17/1919,Oakdale,LaVeta,CO,18,Coal,Explosion,UG,Coal
+10/28/1919,No. 2,Amsterdam,OH,20,Coal,Fire,UG,Coal
+12/2/1919,No. 3,Jacksonville,IN,6,Coal,Explosion,UG,Coal
+4/13/1920,Stag Canon Nos. 1 & 6,Dawson,NM,5,Coal,Explosion,UG,Coal
+4/14/1920,Jefferson Island,Delcambre,LA,6,Salt,Gas explosion,UG,NonMetal
+4/18/1920,Lehigh Quarry,Ormrod,PA,6,Limestone,Explosives,Surface,NonMetal
+5/2/1920,Submarine,Clinton,IN,5,Coal,Explosion,UG,Coal
+5/21/1920,Mallory No. 3,Mallory,WV,5,Coal,Roof fall/bump,UG,Coal
+6/1/1920,Ontario,Cokeburg,PA,6,Coal,Explosion,UG,Coal
+7/18/1920,Renton No. 3,Renton,PA,9,Coal,Explosion,UG,Coal
+7/25/1920,No. 6,Sublet,WY,8,Coal,Exposives,UG,Coal
+8/12/1920,Pounding Mills Quarry,Pounding Mills,VA,9,Rock,Explosives,Surface,NonMetal
+8/20/1920,No. 19,Degnan,OK,10,Coal,Explosion,UG,Coal
+11/15/1920,Arnold,Earlington,KY,6,Coal,Fire,UG,Coal
+11/22/1920,Parrish,Parrish,AL,12,Coal,Explosion,UG,Coal
+2/11/1921,Moffat Nos. 1 & 2,Oak Hill,CO,5,Coal,Explosion,UG,Coal
+2/22/1921,Kathleen,Dowell,IL,7,Coal,Fire,UG,Coal
+3/8/1921,Rahn No. 11,Seek,PA,5,Coal,Explosion,UG,Coal
+8/30/1921,Harco,Harrisburg,IL,12,Coal,Explosion,UG,Coal
+12/12/1921,Satanic,Morrison,CO,6,Coal,Fire,UG,Coal
+1/29/1922,Layman,Hulen,KY,6,Coal,Explosion,UG,Coal
+2/1/1922,Gates No. 2,Gates,PA,25,Coal,Explosion,UG,Coal
+2/1/1922,Belle Ellen No. 2,Belle Ellen,AL,9,Coal,Explosion,UG,Coal
+2/6/1922,Marietta,Pinson Fork,KY,9,Coal,Explosion,UG,Coal
+3/19/1922,Dilltown No. 1,Dilltown,PA,5,Coal,Explosion,UG,Coal
+3/23/1922,Sopris No. 2,Sopris,CO,17,Coal,Explosion,UG,Coal
+5/24/1922,Acmar No. 3,Acmar,AL,11,Coal,Explosion,UG,Coal
+6/24/1922,Central Coal & Coke,Huntington,AR,5,Coal,Suffocation,UG,Coal
+6/26/1922,Holston Quarry,Strawplains,TN,9,Marble,Explosion,UG,Coal
+8/26/1922,Argonaut,Jackson,CA,47,Gold,Fire,UG,Metal
+9/22/1922,Raleigh-Wyoming #2,Glen Rogers,WV,5,Coal,Haulage,UG,Coal
+9/28/1922,Lake Creek,Johnston City,IL,5,Coal,Explosion,UG,Coal
+10/10/1922,No. 11 Progressive,McCurtain,OK,8,Coal,Explosion,UG,Coal
+11/4/1922,#4 Anthracite Mine,Madrid,NM,7,Coal,Explosion,UG,Coal
+11/5/1922,Reilly No. 1,Spangler,PA,79,Coal,Explosion,UG,Coal
+11/21/1922,Dolomite No. 3,Dolomite,AL,90,Coal,Explosion,UG,Coal
+11/24/1922,No. 4,Cerillos,NM,12,Coal,Explosion,UG,Coal
+1/9/1923,Dolomite No. 1,Dolomite,AL,5,Coal,Explosion,UG,Coal
+2/7/1923,Stag Canon No. 1,Dawson,MN,120,Coal,Explosion,UG,Coal
+2/20/1923,Alliance,Kaska,PA,5,Coal,Explosion,UG,Coal
+3/1/1923,Arista,Arista,WV,10,Coal,Explosion,UG,Coal
+5/4/1923,Southwestern,Aguilar,CO,10,Coal,Explosion,UG,Coal
+6/25/1923,Richards Colliery,Mount Carmel,PA,5,Coal,Explosion,UG,Coal
+7/11/1923,Sloss No. 1,Bessemer,AL,5,Iron,Haulage - man-trip,UG,Metal
+8/13/1923,Frontier No. 1,Kemmerer,WY,99,Coal,Explosion,UG,Coal
+10/6/1923,Midwest,Palisades,CO,6,Coal,Explosion,UG,Coal
+11/5/1923,Glen Rogers,Beckley,WV,27,Coal,Explosion,UG,Coal
+12/6/1923,Black Hawk,"Happy, Perry Co.",KY,9,Coal,Explosion,UG,Coal
+12/7/1923,Mount Jessup No. 1,Jessup,PA,5,Coal,Roof fall/bump,UG,Coal
+1/24/1924,McClintock,Johnston City,IL,33,Coal,Explosion,UG,Coal
+1/25/1924,Lancashire No. 18,Shanktown,PA,36,Coal,Explosion,UG,Coal
+2/4/1924,Milford,Crosby,MN,41,Manganiferous iron ore,Inrush of water,UG,Metal
+3/7/1924,No. 2,Castle Gate,UT,172,Coal,Explosion,UG,Coal
+3/27/1924,Yukon No. 2,Yukon,WV,26,Coal,Explosion,UG,Coal
+4/27/1924,Benwood,Benwood,WV,119,Coal,Explosion,UG,Coal
+6/5/1924,Loomis Colleries,Nanticoke,PA,14,Coal,Explosion,UG,Coal
+7/24/1924,Gates No. 1,Brownsville,PA,10,Coal,Explosion,UG,Coal
+9/15/1924,Sublet No. 5,Sublet,WY,39,Coal,Explosion,UG,Coal
+9/20/1924,Rains,Rains,UT,5,Coal,Explosion,UG,Coal
+12/16/1924,Burnett,Burnett,WA,7,Coal,Explosion,UG,Coal
+1/14/1925,Diamond No. 1,Providence,KY,6,Coal,Explosion,UG,Coal
+2/19/1925,City,Sullivan,IN,52,Coal,Explosion,UG,Coal
+3/16/1925,Barrackville,Barrackville,WV,33,Coal,Explosion,UG,Coal
+4/25/1925,Hutchison,Millgrove,PA,5,Coal,Explosion,UG,Coal
+4/25/1925,New Slope,Sewickley,PA,5,Coal,Explosion,UG,Coal
+5/21/1925,Woodward,Edwardsville,PA,7,Coal,Explosion,UG,Coal
+5/26/1925,Carolina,Farmville,NC,53,Coal,Explosion,UG,Coal
+5/30/1925,No. 2,Piper,AL,6,Coal,Explosion,UG,Coal
+6/7/1925,No. 9,Sturgis,KY,17,Coal,Explosion,UG,Coal
+7/22/1925,Rockwood,Rockwood,TN,10,Coal,Explosion,UG,Coal
+8/2/1925,Dorrance,Wilkes-Barre,PA,10,Coal,Explosion,UG,Coal
+11/12/1925,Finley,Madisonville,KY,5,Coal,Explosion,UG,Coal
+12/9/1925,Overton No. 2,Irondale,AL,53,Coal,Explosion,UG,Coal
+12/13/1925,Wilkeson,Tacoma,WA,5,Coal,Explosion,UG,Coal
+12/21/1925,Webb,Bellaire,OH,9,Coal,Fire,UG,Coal
+1/12/1926,No. 21,Wilburton,OK,91,Coal,Explosion,UG,Coal
+1/13/1926,Jamison No. 8,Farmington,WV,19,Coal,Explosion,UG,Coal
+1/28/1926,New Orient No. 2,West Frankfort,IL,5,Coal,Explosion,UG,Coal
+1/28/1926,Mossboro No. 1,Helena,AL,27,Coal,Explosion,UG,Coal
+2/2/1926,Horning No. 4,Horning,PA,20,Coal,Explosion,UG,Coal
+2/15/1926,Nelson,Nelson,KY,8,Coal,Explosion,UG,Coal
+3/7/1926,Eccles No. 5,Eccles,WV,19,Coal,Explosion,UG,Coal
+5/5/1926,Randolph Colliery,Port Carbon,PA,5,Coal,Explosion,UG,Coal
+7/2/1926,Pettebone Colliery # 6,Kingston,PA,7,Coal,Explosion,UG,Coal
+7/20/1926,Dixie,Moffat,AL,9,Coal,Explosion,UG,Coal
+8/25/1926,Clymer No. 1,Clymer,PA,44,Coal,Explosion,UG,Coal
+9/2/1926,Tahona,Tahona,OK,16,Coal,Explosion,UG,Coal
+10/3/1926,Rockwood,Rockwood,TN,27,Coal,Explosion,UG,Coal
+10/29/1926,Colliery No. 7,Nanticoke,PA,9,Coal,Explosion,UG,Coal
+11/2/1926,Barnes Hecker,Ishpeming,MI,51,Iron,Flood,UG,Metal
+11/14/1926,Mound,Moundsville,WV,5,Coal,Explosion,UG,Coal
+12/8/1926,Francisco No. 2,Francisco,IN,37,Coal,Explosion,UG,Coal
+1/30/1927,Nortonville Mining,Nortonville,KY,5,Coal,Explosion,UG,Coal
+3/29/1927,Saline No. 2,Ledford,IL,8,Coal,Explosion,UG,Coal
+4/1/1927,No. 53,Cokeburg,PA,6,Coal,Explosion,UG,Coal
+4/7/1927,Carbonado,Carbonado,WA,7,Coal,Inundation,UG,Coal
+4/29/1927,Federal No. 3,Everettville,WV,97,Coal,Explosion,UG,Coal
+5/12/1927,Shanon Branch No. 3,Caples,WV,8,Coal,Explosion,UG,Coal
+5/25/1927,Woodward No. 3,Edwardsville,PA,7,Coal,Explosion,UG,Coal
+5/26/1927,Delagua,Delagua,CO,7,Coal,Explosion,UG,Coal
+8/2/1927,West Kentucky No. 7,Clay,KY,15,Coal,Explosion,UG,Coal
+10/28/1927,Quincy Mine No. 2 Shaft,Hancock,MI,7,Copper,Fall of rock in shaft,UG,Metal
+11/23/1927,Magma,Superior,AZ,7,Copper,Shaft fire,UG,Metal
+12/19/1927,Franco No. 1,Johnston City,IL,7,Coal,Explosion,UG,Coal
+1/8/1928,No. 18,West Frankfort,IL,21,Coal,Explosion,UG,Coal
+2/19/1928,Kinloch,Parnassus,PA,12,Coal,Explosion,UG,Coal
+2/23/1928,Mama No. 3,Jenny Lind,AR,13,Coal,Explosion,UG,Coal
+4/1/1928,Keystone No. 2,Keystone,WV,8,Coal,Explosion,UG,Coal
+5/18/1928,Mather No. 1,Mather,PA,195,Coal,Explosion,UG,Coal
+5/21/1928,No. 30,Kenvir,KY,8,Coal,Explosion,UG,Coal
+5/21/1928,No. 1,Yukon,WV,17,Coal,Explosion,UG,Coal
+5/24/1928,Baltimore No. 5,Parsons,PA,10,Coal,Explosion,UG,Coal
+6/19/1928,No. 1,National,WV,6,Coal,Explosion,UG,Coal
+8/8/1928,Hillside,Johnstown,PA,5,Coal,Explosion,UG,Coal
+8/14/1928,Irvons No. 3,Coalport,PA,13,Coal,Explosion,UG,Coal
+10/21/1928,McAlpin,McAlpin,WV,6,Coal,Explosion,UG,Coal
+11/29/1928,Princess Poca,Roderfield,WV,6,Coal,Explosion,UG,Coal
+12/17/1928,No. 2,Drakesboro,KY,6,Coal,Explosion,UG,Coal
+1/25/1929,Kingston No. 5,Kingston,WV,14,Coal,Explosion,UG,Coal
+2/27/1929,Stone Mountain Quarry,Decature,GA,7,Granite,Explosion of air receiver,Surface,Stone
+3/20/1929,Kinloch,Parnassus,PA,46,Coal,Explosion,UG,Coal
+5/26/1929,Connellsville,Yolande,AL,10,Coal,Explosion,UG,Coal
+6/4/1929,Halcon,Wise,VA,5,Coal,Roof fall/bump,UG,Coal
+9/3/1929,Calaveras,Copperapolis,CA,5,Copper,Cave-in,UG,Metal
+9/26/1929,Covington,Tahona,OK,8,Coal,Explosion,UG,Coal
+11/30/1929,Old Ben No. 8,West Frankfort,IL,7,Coal,Explosion,UG,Coal
+12/16/1929,Old Town,McAlester,OK,61,Coal,Explosion,UG,Coal
+1/12/1930,Peerless,Straven,AL,7,Coal,Explosion,UG,Coal
+1/18/1930,No. 1,Lillybrook,WV,8,Coal,Explosion,UG,Coal
+2/5/1930,Standard,Standardville,UT,23,Coal,Explosion,UG,Coal
+3/7/1930,New Peerless,Lynn,UT,5,Coal,Explosion,UG,Coal
+3/25/1930,Yukon,Arnettsville,WV,12,Coal,Explosion,UG,Coal
+3/29/1930,Pioneer,Kettle Island,KY,16,Coal,Explosion,UG,Coal
+4/11/1930,Carbonado,Carbonado,WA,17,Coal,Explosion,UG,Coal
+5/16/1930,Terry and Butterskill Quarry,Union,WV,6,Rock,Explosives,Surface,Stone
+6/6/1930,"Climax Mine, Fremont Pass",Lake County,CO,5,Molybdenum,Cave-in stope,UG,Metal
+7/13/1930,Glenn,"Lost Chance, Placer County",CA,5,Gold,Fire,UG,Metal
+8/7/1930,Gilberton,Gilberton,PA,8,Coal,Roof fall/bump,UG,Coal
+10/26/1930,Wheatley No. 4,McAlester,OK,30,Coal,Explosion,UG,Coal
+11/4/1930,No. 6,Millfield,OH,82,Coal,Explosion,UG,Coal
+11/28/1930,Lutie No. 5,Lutie,OK,15,Coal,Explosion,UG,Coal
+12/5/1930,Lamb,Madrid,NM,5,Coal,Explosion,UG,Coal
+1/2/1931,Midvale No. 4,Midvale,OH,5,Coal,Explosion,UG,Coal
+1/5/1931,No. 2,Glen Rogers,WV,8,Coal,Explosion,UG,Coal
+1/27/1931,Little Betty,Dugger,IN,28,Coal,Explosion,UG,Coal
+5/28/1931,Richards Colliery,Mount Carmel,PA,5,Coal,Explosion,UG,Coal
+11/2/1931,No. 20,Holden,WV,5,Coal,Explosion,UG,Coal
+12/27/1931,Overton No. 1,Irondale,AL,5,Coal,Explosion,UG,Coal
+1/17/1932,Parrott,Parrott,VA,6,Coal,Explosion,UG,Coal
+2/26/1932,Boissevain,Boissevain,VA,38,Coal,Explosion,UG,Coal
+6/12/1932,Splashdam No. 6,Splashdam,VA,10,Coal,Explosion,UG,Coal
+12/6/1932,Morgan-Jones,Madrid,NM,14,Coal,Explosion,UG,Coal
+12/8/1932,Zero,Yancey,KY,23,Coal,Explosion,UG,Coal
+12/23/1932,Moweaqua,Moweaqua,IL,54,Coal,Explosion,UG,Coal
+2/7/1933,B & C Quarry,Fletcher,NC,7,Limestone,Fall and slide,Surface,Stone
+9/10/1933,Oakmont,Barking,PA,7,Coal,Explosion,UG,Coal
+3/11/1934,No. 10,Wheatcroft,KY,5,Coal,Fire,UG,Coal
+8/5/1934,Derby No. 3,Big Stone Gap,VA,17,Coal,Explosion,UG,Coal
+11/11/1934,Rohl Connolly Quarry,Avalon,CA,9,Granite,Explosives,UG,Stone
+1/20/1935,Gilberton,Gilberton,PA,13,Coal,Explosion,UG,Coal
+5/6/1935,South Wilkes Barre,Wilkes-Barre,PA,7,Coal,Haulage,UG,Coal
+5/10/1935,No. 41,Barrackville,WV,6,Coal,Fire,UG,Coal
+7/16/1935,No. 155,Van Lear,KY,9,Coal,Explosion,UG,Coal
+1/19/1936,Monarch No. 2,Broomfield,CO,8,Coal,Explosion,UG,Coal
+7/31/1936,Kathleen,Dowell,IL,9,Coal,Fire,UG,Coal
+8/12/1936,Mountain City Copper Co.,"Mountain City, Elko County",NV,6,Copper,Suffocation,UG,Metal
+8/23/1936,Clear Spring,West Pittston,PA,5,Coal,Explosion,UG,Coal
+9/1/1936,Macbeth,Macbeth,WV,10,Coal,Explosion,UG,Coal
+10/5/1936,Morning Mine,Mullan,ID,10,Lead,Cage fall (shaft),UG,Metal
+11/18/1936,Bates,Bates,AR,5,Coal,Explosion,UG,Coal
+11/29/1936,Funkhouser Quarry,Delta,PA,9,Slate,Explosives,Surface,Stone
+2/18/1937,Walker,Walkermine,CA,6,Copper,Explosives,UG,Metal
+3/10/1937,Macbeth,Macbeth,WV,18,Coal,Explosion,UG,Coal
+3/27/1937,Kramer,Dubois,PA,9,Coal,Explosion,UG,Coal
+6/20/1937,Rupert Mine,Keystone,OH,6,Coal,Explosives,UG,Coal
+7/14/1937,Baker,Sullivan,IN,20,Coal,Explosion,UG,Coal
+10/14/1937,Mulga,Mulga,AL,34,Coal,Explosion,UG,Coal
+10/25/1937,Jonesville,Jonesville,AK,14,Coal,Explosion,UG,Coal
+1/11/1938,Harwick,Harwick,PA,10,Coal,Explosion,UG,Coal
+2/10/1938,Vail (Star Valley),Afton,WY,5,Coal,Explosion,UG,Coal
+4/21/1938,Keen Mountain,Hanger,VA,45,Coal,Explosion,UG,Coal
+4/26/1938,No. 1 Slope,Pottsville,PA,8,Coal,Explosion,UG,Coal
+6/1/1938,Butler Slope,Pittston,PA,10,Coal,Explosion,UG,Coal
+6/30/1938,Praco No. 7,Praco,AL,6,Coal,Roof Fall/Bump,UG,Coal
+8/30/1938,Ashville Quarry,Ashville,NC,5,Granite,Dynamite explosion,Surface,Stone
+1/30/1939,Southern,Treece,KS,5,Zinc,Roof fall,UG,Nonmetal
+7/13/1939,Duvin,Providence,KY,28,Coal,Explosion,UG,Coal
+1/9/1940,Pond Creek No. 1,Bartley,WV,91,Coal,Explosion,UG,Coal
+3/15/1940,Willow Grove No. 10,St. Clairsville,OH,72,Coal,Explosion,UG,Coal
+7/14/1940,Sonman,Portage,PA,63,Coal,Explosion,UG,Coal
+8/26/1940,No. 2,Bates,AR,10,Coal,Explosion,UG,Coal
+11/28/1940,Nelms,Cadiz,OH,31,Coal,Explosion,UG,Coal
+12/16/1940,No. 4,Raleigh,WV,9,Coal,Explosion,UG,Coal
+1/21/1941,Carswell,Kimball,WV,6,Coal,Explosion,UG,Coal
+2/13/1941,Fidelity,DuQuoin,IL,7,Coal,Explosives,UG,Coal
+5/21/1941,Panhandle No. 2,Bicknell,IN,14,Coal,Explosion,UG,Coal
+6/3/1941,Docena,Adamsville,AL,5,Coal,Explosion,UG,Coal
+6/29/1941,Kent No. 2,McIntyre,PA,7,Coal,Explosion,UG,Coal
+7/9/1941,Acmar No. 6,Acmar,AL,11,Coal,Explosion,UG,Coal
+10/26/1941,Daniel Boone,Daniel Boone,KY,15,Coal,Explosion,UG,Coal
+12/27/1941,No. 47,Harco,IL,8,Coal,Explosion,UG,Coal
+1/8/1942,Pride,Silverton,CO,8,"Copper, Zinc, Lead, Gold, Silver",Fumes from surface fire at portal,UG,Metal
+1/26/1942,Wadge,Mount Harris,CO,34,Coal,Explosion,UG,Coal
+3/26/1942,Sandts Eddy Quarry,Allentown,PA,31,Limestone,Quarry blast,Surface,Stone
+5/10/1942,Peerless No. 2,Excelsior,AR,6,Coal,Explosion,UG,Coal
+5/11/1942,Christopher No. 3,Osage,WV,56,Coal,Explosion,UG,Coal
+5/17/1942,Hitchman,Benwood,WV,5,Coal,Explosion,UG,Coal
+7/8/1942,Pursglove No. 2,Pursglove,WV,20,Coal,Explosion,UG,Coal
+11/30/1942,West KY No. 10,Wheatcroft,KY,6,Coal,Explosion,UG,Coal
+12/15/1942,Laing No. 1,Laing,WV,5,Coal,Haulage,UG,Coal
+1/5/1943,Boyd Mine,Ducktown,TN,9,Copper,Explosion,UG,Metal
+1/8/1943,No. 15,Pursglove,WV,13,Coal,Fire,UG,Coal
+2/10/1943,C. F. & H.,Shullsburg,WI,8,"Lead, Zinc",Cave-ins (2),UG,Metal
+2/27/1943,Smith,Washoe,MT,74,Coal,Explosion,UG,Coal
+3/15/1943,Atkinson Quarry,Excursion Inlet,AK,5,Rock,Blasting,Surface,Stone
+5/4/1943,NuRex,LaFollette,TN,10,Coal,Explosion,UG,Coal
+5/10/1943,Praco No. 10,Praco,AL,12,Coal,Explosion,UG,Coal
+8/27/1943,"Sayreton, No. 2",Sayreton,AL,28,Coal,Explosion,UG,Coal
+9/15/1943,3 Point,Three Point,KY,12,Coal,Explosion,UG,Coal
+9/23/1943,Primrose Colliery,Minersville,PA,14,Coal,Explosion,UG,Coal
+11/6/1943,Nellis No. 3,Madison,WV,11,Coal,Explosion,UG,Coal
+3/24/1944,Katherine No. 4,Lumberport,WV,16,Coal,Explosion,UG,Coal
+6/6/1944,Emerald,Clarksville,PA,6,Coal,Fire,UG,Coal
+7/4/1944,Powhatan,Powhatan Point,OH,66,Coal,Fire,UG,Coal
+7/27/1944,Brilliant No. 2,Brilliant,NM,6,Coal,Explosion,UG,Coal
+1/17/1945,Bond Valley,Haileyville,OK,9,Coal,Explosion,UG,Coal
+2/20/1945,St. Anthony,Tiger,AZ,5,"Lead, Zinc",Bunkhouse fire,Surface,Metal
+3/12/1945,Crucible,Crucible,PA,5,Coal,Roof/bump,UG,Coal
+3/14/1945,Kennilworth,Kennilworth,UT,7,Coal,Explosion,UG,Coal
+5/8/1945,No. 1,Sunnyside,UT,23,Coal,Explosion,UG,Coal
+12/25/1945,Belva No. 1,Fourmile,KY,25,Coal,Explosion,UG,Coal
+1/14/1946,Havaco No. 9,Havaco,WV,15,Coal,Explosion,UG,Coal
+4/17/1946,Great Valley,McCoy,VA,12,Coal,Explosion,UG,Coal
+1/14/1947,Nottingham,Plymouth,PA,15,Coal,Explosion,UG,Coal
+3/24/1947,No. 5,Centralia,IL,111,Coal,Explosion,UG,Coal
+4/9/1947,Schooley,Exeter,PA,10,Coal,Explosion,UG,Coal
+4/29/1947,Spring Hill,Terre Haute,IN,8,Coal,Explosion,UG,Coal
+7/23/1947,Old Ben No. 8,W. Frankfort,IL,27,Coal,Explosion,UG,Coal
+12/10/1947,Franklin,Wilkes-Barre,PA,8,Coal,Explosion,UG,Coal
+2/7/1948,Sun Excelsior,Excelsior,AR,8,Coal,Explosion,UG,Coal
+5/19/1948,No. 2,Dante,VA,6,Coal,Roof/bump,UG,Coal
+7/26/1948,King,Princeton,IN,13,Coal,Explosion,UG,Coal
+7/29/1948,Edgewater,Birmingham,AL,11,Coal,Explosion,UG,Coal
+8/5/1948,No. 11,Capels,WV,6,Coal,Roof fall/bump,UG,Coal
+11/3/1948,Milt No. 1,Kitzmiller,MD,5,Coal,Fire,UG,Coal
+7/15/1950,"Lark, U.S. Smelting",Lark,UT,5,"Lead, Zinc",Fire,UG,Metal
+1/17/1951,Burning Springs,Kermit,WV,11,Coal,Explosion,UG,Coal
+3/28/1951,Buttonwood,Wilkes-Barre,PA,5,Coal,Explosion,UG,Coal
+10/14/1951,Bunker,Cassville,WV,10,Coal,Explosion,UG,Coal
+10/30/1951,United Gas No. 1,United,WV,12,Coal,Explosion,UG,Coal
+12/20/1951,Orient No. 2,West Frankfort,IL,119,Coal,Explosion,UG,Coal
+2/1/1952,Carpentertown,Carpentertown,PA,6,Coal,Explosion,UG,Coal
+3/26/1952,Holmes Slope,Minersville,PA,5,Coal,Inundation,UG,Coal
+7/23/1952,Arizona Precast Concrete,Apache Junction,AZ,5,Rock & Stone,"Collapse load, trestle",Surface,Stone
+10/29/1952,"Herron, Alpena Enterprises",Herron,MI,5,Gold Prospect,Shaft explosion,UG,Metal
+3/29/1953,O'Brien,Lovilia,IA,5,Coal,Explosion,UG,Coal
+3/30/1954,Santa Rita Open Pit,Santa Rita,NM,5,Copper,Premature blast,Surface,Metal
+11/12/1954,Jamison No. 9,Farmington,WV,16,Coal,Explosion,UG,Coal
+1/17/1957,Evan Jones,Jonesville,AK,5,Coal,Explosion,UG,Coal
+2/3/1957,Bishop No. 34,McDowell County,WV,37,Coal,Explosion,UG,Coal
+9/22/1957,Marianna No. 58,Marianna,PA,6,Coal,Explosion,UG,Coal
+12/8/1957,Glen Rogers No. 2,Glen Rogers,WV,5,Coal,Roof fall/bump,UG,Coal
+12/26/1957,Amonate No. 31,McDowell Co.,WV,11,Coal,Explosion,UG,Coal
+2/11/1958,Lundale,Lundale,WV,6,Coal,Roof fall/bump,UG,Coal
+10/26/1958,Bishop No. 34,McDowell County,WV,22,Coal,Explosion,UG,Coal
+10/27/1958,Burton Mine,Craigsville,WV,14,Coal,Explosion,UG,Coal
+1/21/1959,River Slope,Port Griffith,PA,12,Coal,Inundation,UG,Coal
+3/22/1959,Phillips and West,Robbins,TN,9,Coal,Explosion,UG,Coal
+5/31/1959,Sherwood Mine,Iron River,MI,6,Iron ore,Inrush hot gases/steam,UG,Metal
+3/7/1960,No. 22,Pine Creek,WV,18,Coal,Fire,UG,Coal
+3/1/1961,Viking Mine,Terre Haute,IN,22,Coal,Explosion,UG,Coal
+1/9/1962,Blue Blaze No. 2,Herrin,IL,11,Coal,Explosion,UG,Coal
+12/5/1962,Robena No. 3,Carmichaels,PA,37,Coal,Explosion,UG,Coal
+4/24/1963,Compass No. 2,Dola,WV,22,Coal,Explosion,UG,Coal
+8/27/1963,Cane Creek Mine,Moab,UT,18,Potash,Gas explosion,UG,Metal
+12/15/1963,Carbon Fuel No. 2,Helper,UT,9,Coal,Explosion,UG,Coal
+5/23/1965,C. L. Cline No. 2,Robbins,TN,5,Coal,Explosion,UG,Coal
+10/15/1965,Mars No. 2,Wilsonburg,WV,7,Coal,Explosion,UG,Coal
+12/27/1965,Dutch Creek Mine,Redstone,CO,9,Coal,Explosion,UG,Coal
+5/31/1966,Dora No.2,Dora,PA,5,Coal,Suffocation,UG,Coal
+7/22/1966,Siltex Mine,Mt. Hope,WV,7,Coal,Explosion,UG,Coal
+3/5/1968,Belle Isle Mine,Franklin,LA,21,Salt,Fire,UG,Nonmetal
+8/6/1968,River Queen,Greenville,KY,9,Coal,Explosion,UG,Coal
+11/19/1968,Consol No. 9,Farmington,WV,78,Coal,Explosion,UG,Coal
+12/29/1970,Finley Coal No. 15 & 16,Hyden,KY,38,Coal,Explosion,UG,Coal
+4/11/1971,Barnett Complex Mine,Rosiclare,IL,7,Flurospar,Hydrogen Sulfide Gas,UG,Nonmetal
+2/25/1972,Buffalo Mining Co.,Saunders,WV,114,Coal,Dam failure,UG,Coal
+5/1/1972,Sunshine Mining Company,Kellogg,ID,91,Silver,Fire,UG,Metal
+7/21/1972,Blacksville No. 1,Blacksville,WV,9,Coal,Fire,UG,Coal
+12/15/1972,Itmann No. 3,Itmann,WV,5,Coal,Explosion,UG,Coal
+3/8/1976,Scotia,Ovenfork,KY,15,Coal,Explosion,UG,Coal
+3/10/1976,Scotia (second) *,Ovenfork,KY,11,Coal,Explosion,UG,Coal
+2/28/1977,Porter Tunnel,Tower City,PA,9,Coal,Flood,UG,Coal
+4/3/1978,Moss No. 3 *,Duty,VA,5,Coal,Suffocation (oxygen deficient air),UG,Coal
+6/7/1979,Belle Isle Mine,Franklin,LA,5,Salt,Gas explosion,UG,Nonmetal
+11/6/1980,Ferrell No. 17,Uneeda,WV,5,Coal,Explosion,UG,Coal
+4/14/1981,Mid-Continent Resources Dutch Creek #1,Redstone,CO,15,Coal,Explosion,UG,Coal
+12/6/1981,Adkins Coal Mine #11,Kite,KY,8,Coal,Explosion,UG,Coal
+12/7/1981,Grundy Mining Co. Mine #21,Whitewell,TN,13,Coal,Explosion,UG,Coal
+1/19/1982,RHF No. 1,Craynor,KY,7,Coal,Explosion,UG,Coal
+6/20/1983,McClure #1 Mine,McClure,VA,7,Coal,Explosion,UG,Coal
+12/18/1984,Wilberg Mine,Orangeville,UT,27,Coal,Fire,UG,Coal
+2/5/1986,Loveridge No. 22,Fairview,WV,5,Coal,Collapsed coal pile caused suffocation,UG,Coal
+9/12/1989,William Station No. 9 Mine,Sullivan,KY,10,Coal,Explosion,UG,Coal
+12/6/1992,No. 3 Mine,Norton,VA,8,Coal,Explosion,UG,Coal
+9/22/2001,No. 5 Mine,Brookwood,AL,13,Coal,Explosion,UG,Coal
+1/1/2006,Sago Mine,Buckhannon,WV,12,Coal,Explosion,UG,Coal
+5/19/2006,Darby Mine No. 1,Middlesboro,KY,5,Coal,Explosion,UG,Coal
+8/5/2007,Crandall Canyon Mine **,Huntington,UT,6,Coal,Fall of face or rib,UG,Coal
+4/4/2010,Upper Big Branch Mine-South,Montcoal,WV,29,Coal,Ignition or explosion of gas or dust,UG,Coal
